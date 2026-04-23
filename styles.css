@@ -85,28 +85,6 @@ h1 {
     flex-wrap: wrap;
 }
 
-.link-btn {
-    display: inline-block;
-    padding: 12px 24px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
-    text-decoration: none;
-    border-radius: 25px;
-    font-weight: 600;
-    font-size: 14px;
-    transition: all 0.3s ease;
-    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
-}
-
-.link-btn:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 6px 25px rgba(102, 126, 234, 0.6);
-}
-
-.link-btn:active {
-    transform: translateY(-1px);
-}
-
 footer {
     margin-top: 40px;
     color: rgba(255, 255, 255, 0.8);
